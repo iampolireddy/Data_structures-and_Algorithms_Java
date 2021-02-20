@@ -1,8 +1,8 @@
-                                                              Data structures and Algorithums                                                        
+                                                                Data Structures and Algorithms                                                                                      
 
 
-Data structures : the way of oraganizing data
-Algorthiums     : set of instructions to solve particular task
+Data structures : the way of oraganizing data.
+Algorthiums     : set of instructions to solve particular task.
 _____________________________________________________________________________________________________________________________________________________________________
 
 Complexity :
