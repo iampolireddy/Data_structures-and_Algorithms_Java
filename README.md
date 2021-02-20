@@ -1,1 +1,128 @@
+                                                               Data structures and Algorithums
+                                                            ______________________________________
+
+
+Data structures : the way of oraganizing data
+Algorthiums     : set of instructions to solve particular task
+_____________________________________________________________________________________________________________________________________________________________________
+
+Complexity :
+
+1. omega for best case
+2. big o for worst case (most popular)
+3. theta for average case
+_____________________________________________________________________________________________________________________________________________________________________
+
+Linked list DS:
+
+1. singly linked list
+2. double linked list
+3. circular linked list
+_____________________________________________________________________________________________________________________________________________________________________
+
+1. singly linked list:
+
+Operations done:
+
+1. display
+2. length
+3. insertAtFirst
+4. insertAtEnd
+5. insertAt at given position
+6. deleteFirst
+7. deleteLast
+8. deleteAt at given position
+9. search for key
+
+Challenges done:
+
+1. reverse the singly linked list
+2. find middle node
+3. find nth node from end of the list
+4. insert node in sorted array
+5. remove given key from the list
+6. detect loop in the list
+
+_____________________________________________________________________________________________________________________________________________________________________
+
+2. double linked list
+
+Operations done:
+
+1. display
+2. length
+3. insertAtFirst
+4. insertAtEnd
+5. insertAt at given position
+6. deleteFirst
+7. deleteLast
+8. deleteAt at given position
+
+_____________________________________________________________________________________________________________________________________________________________________
+
+3. circular linked list
+
+Operations done:
+
+1. display
+2. length
+3. insertAtFirst
+4. insertAtEnd
+6. deleteFirst
+7. deleteLast
+
+
+_____________________________________________________________________________________________________________________________________________________________________
+
+
+4.Array data structure
+
+Operations done:
+
+1.display
+2.addition
+
+Challenges done:
+
+1.remove even integers from array
+2.resize array
+3.find min value
+4.find max value
+5.reverse array
+6.check string palindrome or not
+7.second larget numbers in array
+8.two sum problems
+
+_____________________________________________________________________________________________________________________________________________________________________
+
+
+4. stack data structure
+
+Operations done:
+
+1. push
+2. pop
+3. peak
+
+Challenges done:
+
+1. reverse string using stack
+2. evaluate postfix expressions
+
+
+_____________________________________________________________________________________________________________________________________________________________________
+
+
+4. queue data structure
+
+Operations done:
+
+1. enqueue
+2. dequeue
+
+Challenges done:
+
+1. generate binary numbers
+
+____________________________________________________________________________________________________________________________________________________________________
 
