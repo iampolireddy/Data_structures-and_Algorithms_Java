@@ -25,13 +25,14 @@ Operations done:
 
 1. display
 2. length
-3. insertAtFirst
-4. insertAtEnd
-5. insertAt at given position
-6. deleteFirst
-7. deleteLast
-8. deleteAt at given position
-9. search for key
+3. isEmpty
+4. insertAtFirst
+5. insertAtEnd
+6. insertAt at given position
+7. deleteFirst
+8. deleteLast
+9. deleteAt at given position
+10. search for key
 
 Challenges done:
 
