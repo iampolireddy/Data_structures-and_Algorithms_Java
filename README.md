@@ -1,4 +1,4 @@
-                                                              ** Data structures and Algorithums**                                                            
+                                                              Data structures and Algorithums                                                        
 
 
 Data structures : the way of oraganizing data
